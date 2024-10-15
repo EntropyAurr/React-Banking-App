@@ -15,7 +15,7 @@ const ubuntu = Ubuntu({
 });
 
 export const metadata: Metadata = {
-  title: "Entropy",
+  title: "Entropy Bank",
   description: "Entropy is a modern banking platform for every one.",
   icons: { icon: "/icons/logo.svg" },
 };
